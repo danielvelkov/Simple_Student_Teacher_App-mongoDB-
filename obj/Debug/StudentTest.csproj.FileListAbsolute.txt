@@ -1,0 +1,80 @@
+E:\studentski bs\III kurs\6 semestur\staj\1 st task\StudentInfo\StudentTest\bin\Debug\StudentTest.exe.config
+E:\studentski bs\III kurs\6 semestur\staj\1 st task\StudentInfo\StudentTest\bin\Debug\StudentTest.exe
+E:\studentski bs\III kurs\6 semestur\staj\1 st task\StudentInfo\StudentTest\bin\Debug\StudentTest.pdb
+E:\studentski bs\III kurs\6 semestur\staj\1 st task\StudentInfo\StudentTest\obj\Debug\StudentTest.csprojAssemblyReference.cache
+E:\studentski bs\III kurs\6 semestur\staj\1 st task\StudentInfo\StudentTest\obj\Debug\MainWindow.g.cs
+E:\studentski bs\III kurs\6 semestur\staj\1 st task\StudentInfo\StudentTest\obj\Debug\Views\ApplicationMainView.g.cs
+E:\studentski bs\III kurs\6 semestur\staj\1 st task\StudentInfo\StudentTest\obj\Debug\Views\RegisterTeacherScreen.g.cs
+E:\studentski bs\III kurs\6 semestur\staj\1 st task\StudentInfo\StudentTest\obj\Debug\Views\RegisterStudentScreen.g.cs
+E:\studentski bs\III kurs\6 semestur\staj\1 st task\StudentInfo\StudentTest\obj\Debug\Views\ViewTeachersAndStudents.g.cs
+E:\studentski bs\III kurs\6 semestur\staj\1 st task\StudentInfo\StudentTest\obj\Debug\App.g.cs
+E:\studentski bs\III kurs\6 semestur\staj\1 st task\StudentInfo\StudentTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\studentski bs\III kurs\6 semestur\staj\1 st task\StudentInfo\StudentTest\obj\Debug\StudentTest_MarkupCompile.cache
+E:\studentski bs\III kurs\6 semestur\staj\1 st task\StudentInfo\StudentTest\obj\Debug\StudentTest_MarkupCompile.lref
+E:\studentski bs\III kurs\6 semestur\staj\1 st task\StudentInfo\StudentTest\obj\Debug\MainWindow.baml
+E:\studentski bs\III kurs\6 semestur\staj\1 st task\StudentInfo\StudentTest\obj\Debug\Views\ApplicationMainView.baml
+E:\studentski bs\III kurs\6 semestur\staj\1 st task\StudentInfo\StudentTest\obj\Debug\Views\RegisterTeacherScreen.baml
+E:\studentski bs\III kurs\6 semestur\staj\1 st task\StudentInfo\StudentTest\obj\Debug\Views\RegisterStudentScreen.baml
+E:\studentski bs\III kurs\6 semestur\staj\1 st task\StudentInfo\StudentTest\obj\Debug\Views\ViewTeachersAndStudents.baml
+E:\studentski bs\III kurs\6 semestur\staj\1 st task\StudentInfo\StudentTest\obj\Debug\StudentTest.g.resources
+E:\studentski bs\III kurs\6 semestur\staj\1 st task\StudentInfo\StudentTest\obj\Debug\StudentTest.Properties.Resources.resources
+E:\studentski bs\III kurs\6 semestur\staj\1 st task\StudentInfo\StudentTest\obj\Debug\StudentTest.csproj.GenerateResource.cache
+E:\studentski bs\III kurs\6 semestur\staj\1 st task\StudentInfo\StudentTest\obj\Debug\StudentTest.csproj.CoreCompileInputs.cache
+E:\studentski bs\III kurs\6 semestur\staj\1 st task\StudentInfo\StudentTest\obj\Debug\StudentTest.exe
+E:\studentski bs\III kurs\6 semestur\staj\1 st task\StudentInfo\StudentTest\obj\Debug\StudentTest.pdb
+E:\studentski bs\III kurs\6 semestur\staj\1 st task\StudentInfo\StudentTest\obj\Debug\Views\GroupBox Views\DisplayStudent.g.cs
+E:\studentski bs\III kurs\6 semestur\staj\1 st task\StudentInfo\StudentTest\obj\Debug\Views\GroupBox Views\DisplayTeacher.g.cs
+E:\studentski bs\III kurs\6 semestur\staj\1 st task\StudentInfo\StudentTest\obj\Debug\Views\GroupBox Views\DisplayStudent.baml
+E:\studentski bs\III kurs\6 semestur\staj\1 st task\StudentInfo\StudentTest\obj\Debug\Views\GroupBox Views\DisplayTeacher.baml
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\bin\Debug\StudentTest.exe.config
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\bin\Debug\StudentTest.exe
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\bin\Debug\StudentTest.pdb
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\obj\Debug\StudentTest.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\obj\Debug\Views\ApplicationMainView.g.cs
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\obj\Debug\Views\GroupBox Views\DisplayStudent.g.cs
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\obj\Debug\Views\GroupBox Views\DisplayTeacher.g.cs
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\obj\Debug\Views\RegisterTeacherScreen.g.cs
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\obj\Debug\Views\RegisterStudentScreen.g.cs
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\obj\Debug\Views\ViewTeachersAndStudents.g.cs
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\obj\Debug\StudentTest_MarkupCompile.cache
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\obj\Debug\StudentTest_MarkupCompile.lref
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\obj\Debug\Views\ApplicationMainView.baml
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\obj\Debug\Views\GroupBox Views\DisplayStudent.baml
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\obj\Debug\Views\GroupBox Views\DisplayTeacher.baml
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\obj\Debug\Views\RegisterTeacherScreen.baml
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\obj\Debug\Views\RegisterStudentScreen.baml
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\obj\Debug\Views\ViewTeachersAndStudents.baml
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\obj\Debug\StudentTest.g.resources
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\obj\Debug\StudentTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\obj\Debug\StudentTest.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\obj\Debug\StudentTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\obj\Debug\StudentTest.exe
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\obj\Debug\StudentTest.pdb
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\bin\Debug\System.Data.Common.dll
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\bin\Debug\System.IO.Compression.dll
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\bin\Debug\System.Net.Sockets.dll
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\bin\Debug\System.Security.SecureString.dll
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\bin\Debug\DnsClient.dll
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\bin\Debug\MongoDB.Bson.dll
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\bin\Debug\MongoDB.Driver.dll
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\bin\Debug\DnsClient.xml
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\bin\Debug\MongoDB.Bson.xml
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\bin\Debug\MongoDB.Driver.xml
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\obj\Debug\StudentTest.exe.config
+C:\Users\Administrator\Desktop\StudentInfo_v2.0\StudentInfo\StudentTest\obj\Debug\StudentTest.csproj.CopyComplete

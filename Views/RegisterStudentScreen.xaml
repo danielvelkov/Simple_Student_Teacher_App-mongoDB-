@@ -1,0 +1,75 @@
+﻿<UserControl x:Class="StudentTest.Views.RegisterStudentScreen"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:StudentTest.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.3*"/>
+            <ColumnDefinition Width="0.2*"/>
+            <ColumnDefinition Width="0.5*"/>
+            <ColumnDefinition Width="0.5*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition />
+            <RowDefinition Height="2*"/>
+            <RowDefinition/>
+            
+        </Grid.RowDefinitions>
+
+        <Label Content="Name:" HorizontalAlignment="Right"  VerticalAlignment="Center"/>
+        <Label Content="Civil number:" Grid.Row="1" HorizontalAlignment="Right" VerticalAlignment="Center"></Label>
+        <Label Content="Faculty Number:" Grid.Row="2" HorizontalAlignment="Right"  VerticalAlignment="Center" />
+        <Label Content="Faculty:" Grid.Row="3" HorizontalAlignment="Right"  VerticalAlignment="Center" />
+        <Label Content="Course name:" Grid.Row="4" HorizontalAlignment="Right"  VerticalAlignment="Center"/>
+        <Label Content="Type of study:" Grid.Row="5" HorizontalAlignment="Right"  VerticalAlignment="Center"/>
+        <Label Content="Qualification degree:" Grid.Row="6" HorizontalAlignment="Right"  VerticalAlignment="Center" />
+        <Label Content="Group:" Grid.Row="7" HorizontalAlignment="Right"  VerticalAlignment="Center" />
+
+        <TextBox Text="{Binding Name}" Grid.Column="1" VerticalAlignment="Center" FontSize="18" Grid.ColumnSpan="2" Margin="0,13"/>
+        <TextBox Text="{Binding CivilNumber}" Grid.Column="1" Grid.Row="1" VerticalAlignment="Center" FontSize="18" Grid.ColumnSpan="2" Margin="0,13"></TextBox>
+        <TextBox Text="{Binding FacNum}" Grid.Column="1" Grid.Row="2" VerticalAlignment="Center" FontSize="18" Grid.ColumnSpan="2" Margin="0,13"/>
+        <ComboBox SelectedItem="{Binding StudFaculty}" ItemsSource="{Binding faculties}"  Grid.Column="1" Grid.Row="3" VerticalAlignment="Center" FontSize="18" Grid.ColumnSpan="2" Margin="0,11" />
+        <TextBox  Text="{Binding CourseName}" Grid.Column="1" Grid.Row="4" VerticalAlignment="Center" FontSize="18" Grid.ColumnSpan="2" Margin="0,14,0,13"/>
+        <ComboBox SelectedItem="{Binding TypeStudy}" ItemsSource="{Binding studyTypes}" Grid.Column="1" Grid.Row="5" VerticalAlignment="Center" FontSize="18" Grid.ColumnSpan="2" Margin="0,11" />
+        <ComboBox SelectedItem="{Binding TypeDegree}" ItemsSource="{Binding degreeTypes}" Grid.Column="1" Grid.Row="6" VerticalAlignment="Center" FontSize="18" Grid.ColumnSpan="2" Margin="0,11,0,12" />
+        <TextBox Text="{Binding Group}" Grid.Column="1" Grid.Row="7" VerticalAlignment="Center" FontSize="18" Grid.ColumnSpan="2" Margin="0,13"/>
+
+        <Grid Grid.Row="9" Grid.Column="1" Grid.ColumnSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <GroupBox Header="Subjects" Grid.Column="0" >
+                <ListBox ItemsSource="{Binding Subjects}" SelectedItem="{Binding SelectedSubject}"  ></ListBox>
+            </GroupBox>
+            <StackPanel Grid.Column="1">
+                <Button Command="{Binding AddSubject}" Content="Add"></Button>
+                <Button Command="{Binding RemoveSubject}" Content="Remove"></Button>
+            </StackPanel>
+            <GroupBox Header="Studied Subjects"  Grid.Column="2">
+                <ListBox ItemsSource="{Binding StudySubjects}" SelectedItem="{Binding SelectedStudySubject}"></ListBox>
+            </GroupBox>
+            
+        </Grid>
+
+        <TextBlock Text="{Binding ErrMsg}" Grid.Column="3" Grid.Row="8" Grid.RowSpan="2" VerticalAlignment="Stretch" FontSize="20" Foreground="Red"></TextBlock>
+        <Button Command="{Binding SaveStudent}" Grid.Column="1" Grid.Row="10" Margin="10" Grid.ColumnSpan="2" Content="Save Student"/>
+        <Image Source="{Binding ImageUri}" Grid.Column="3" Grid.Row="1" Grid.RowSpan="4" Margin="20"></Image>
+        <Button Command="{Binding AddImage}" Grid.Row="5" Grid.Column="3" Margin="10" Content="Add image..." ></Button>
+
+    </Grid>
+</UserControl>
